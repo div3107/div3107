@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Divyanshu Gupta</h1>
+<h1 align="center">Hello There!! 👋, I'm Divyanshu Gupta</h1>
 <h3 align="center">A passionate cybersecurity learner from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=div3107&label=Profile%20views&color=0e75b6&style=flat" alt="div3107" /> </p>
 
-- 🔭 I’m currently working on **Raspberry pie**
+- 🔭 I’m currently working on **Raspberry pi**
 
 - 🌱 I’m currently learning **Penetration Testing and IoT devices**
 
