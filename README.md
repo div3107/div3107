@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Penetration Testing and IoT devices**
 
-- 💬 Ask me about **Network Security and protocols**
+- 💬 Ask me about **Ethical Hacking and Network Security**
 
 - ⚡ Fun fact **Privacy is a myth;)**
 
