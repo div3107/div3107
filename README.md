@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=div3107&label=Profile%20views&color=0e75b6&style=flat" alt="div3107" /> </p>
 
-- 🔭 I’m currently working on **Raspberry pi**
+- 🔭 I’m currently working on **Raspberry pi & Node MCUs**
 
 - 🌱 I’m currently learning **Penetration Testing and IoT devices**
 
@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/divyans25484425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyans25484425" height="30" width="40" /></a>
+<a href="https://twitter.com/divyans25484425" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="divyans25484425" height="30" width="40"></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
